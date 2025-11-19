@@ -1,0 +1,6 @@
+websockets==10.4
+sounddevice==0.4.6
+python-dotenv==1.0.1
+requests==2.31.0
+numpy==1.26.4
+google-cloud-translate==3.12.1
